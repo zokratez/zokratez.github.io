@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: da' foco 
 header-img: img/home-bg.png
 email: tortillabar@me.com
 copyright_name: zokratez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  a non-wordly conquistadores
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zokratez
